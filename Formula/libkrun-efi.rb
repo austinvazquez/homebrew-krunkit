@@ -6,7 +6,7 @@ class LibkrunEfi < Formula
   license "Apache-2.0"
 
   bottle do
-    root_url "https://raw.githubusercontent.com/slp/homebrew-krunkit/master/bottles"
+    root_url "https://raw.githubusercontent.com/austinvazquez/homebrew-krunkit/master/bottles"
     sha256 cellar: :any, arm64_sequoia: "ace439fcb129568e8ca455d3518ff9c4dc0f48c38f746be828f093593e35e6d5"
   end
 
